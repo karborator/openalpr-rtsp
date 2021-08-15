@@ -2,7 +2,7 @@
 LPR detection via openalpr project consuming rtsp stream
 
 Installation
- - pip install 
+ - pip install -r requirements
  - add openalpr to your system by following one of the compilation guides: https://github.com/openalpr/openalpr
 
 
